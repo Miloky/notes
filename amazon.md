@@ -1,3 +1,11 @@
+Install ngnix: 
+```bash
+sudo apt update
+sudo apt install nginx
+systemctl status nginx
+```
+
+
 Connect to Lightsail instance:
 
 ```bash
